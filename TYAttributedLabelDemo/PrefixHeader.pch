@@ -1,0 +1,14 @@
+//
+//  PrefixHeader.pch
+//  TYAttributedLabelDemo
+//
+//  Created by 樊义红 on 17/6/15.
+//  Copyright © 2017年 tanyang. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "UIViewController+Swizzled.h"
+
+#endif /* PrefixHeader_pch */
